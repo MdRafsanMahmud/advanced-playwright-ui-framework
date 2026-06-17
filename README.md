@@ -81,8 +81,10 @@ a1qa-js-playwright-framework/
 ├── playwright.config.js
 └── README.md
 ```
+* Allure Report
 
----
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/120d6141-fa24-4436-97e0-4085afdf389c" />
+
 
 ## 🛠️ Setup & Installation
 
